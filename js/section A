@@ -1,0 +1,24 @@
+Section A
+
+1. -1
+    1
+
+2.  NaN2
+    NaN	
+    02
+    32
+    122 
+    122 (will concat)
+
+3. Here output will be xyz.
+   because var employee is already an object and in
+   var emp1 = Object.create(employee);
+   We are creating an object with emp1 and it gets other space in memory and the delete operation is carried out there.
+
+4.Original salary undefined
+  My New Salary 5000
+
+5.
+  NaN
+  because a and b both are string and - operation doesn't carry out in string , if instead of 	      number it would have been integer the result would have been the difference of it.
+
